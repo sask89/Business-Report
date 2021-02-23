@@ -1,0 +1,11 @@
+As per the data the Good loan percentage is quite more compared to bad loan.
+According to my inference we have data which contained NA,which is hidden as it looks bad
+The age wise chart display valuable business insight such as more aged people has good loan
+The granularity of emp_team is too fine.
+Approx: there are 56 columns with NA
+According to business model, this data follows Bank data
+The data contains Rejection data with details on rejection of loan
+The data contains Loan data with details of loan status
+This is structured data
+The loan table consists of multiple Dimensions and Measures
+
